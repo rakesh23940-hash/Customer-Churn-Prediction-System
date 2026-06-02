@@ -1,3 +1,8 @@
+🌐 Live Demo:
+<https://customer-churn-prediction-system-zbpsqfnayg3vanehcdguev.streamlit.app/>
+
+
+
 # 🤖 AI Customer Churn Intelligence
 
 An End-to-End Machine Learning application that predicts telecom customer churn using customer demographics, service subscriptions, and billing information.
